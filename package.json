@@ -1,0 +1,26 @@
+{
+  "name": "don-pti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/davidlinnn/don-pti.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidlinnn/don-pti/issues"
+  },
+  "homepage": "https://github.com/davidlinnn/don-pti#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.91.0"
+  }
+}
